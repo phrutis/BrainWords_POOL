@@ -62,7 +62,7 @@ Length 8 all possible characters (93) passed.
 Convenient launch<br>
 ```chmod +x bb```<br>
 ```./bb -u NickName```<br>
-```bb.exe -u NickName<br>```
+```bb.exe -u NickName```
 
 You can run multiple rigs under one nickname<br>
 A set of server sources, client sources, server installation instructions, and client compilation.<br>
