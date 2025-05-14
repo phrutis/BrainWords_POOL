@@ -1,4 +1,4 @@
-# Pool for searching Brainwallets BTC + ETH for sale $1000<br>
+# Pool for searching Brainwallets BTC + ETH for sale $500<br>
 You can buy a pool at the link https://t.me/cuda8/270<br>
 ![Image](https://github.com/user-attachments/assets/1eb9242c-7c0c-4f92-b53a-e0117a25ad62)<br>
 
